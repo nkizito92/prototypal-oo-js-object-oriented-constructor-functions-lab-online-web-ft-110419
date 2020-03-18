@@ -1,5 +1,5 @@
 function Scooter (year, color, model) {
-  year,
+  this.year = year,
   color, 
   model
 }
